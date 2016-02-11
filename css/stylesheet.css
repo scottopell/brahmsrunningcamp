@@ -226,6 +226,10 @@ h1, h2, h3, h4, p {
   font-family: 'Cartogothicpro-light', 'Georgia', serif;
 }
 
+strong sup {
+  text-transform: none;
+}
+
 @media (max-width: 1000px) {
   .header-boxes {
     display: inline-block;
